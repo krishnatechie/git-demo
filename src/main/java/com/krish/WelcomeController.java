@@ -13,4 +13,5 @@ public class WelcomeController {
     public String ego() {
     	return "King....";
     }
+
 }
