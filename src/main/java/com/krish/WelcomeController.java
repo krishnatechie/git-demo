@@ -5,4 +5,8 @@ public class WelcomeController {
     public String welcome() {
         return "This is Swetha I`m great!";
     }
+    
+    public String home() {
+    	return "home.html";
+    }
 }
