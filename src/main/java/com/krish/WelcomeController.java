@@ -9,4 +9,8 @@ public class WelcomeController {
     public String home() {
     	return "home.html";
     }
+
+    public Stringn ego() {
+        return "Its Swetha...";
+    }
 }
